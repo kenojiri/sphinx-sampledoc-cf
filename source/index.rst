@@ -11,7 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-foo!
+foo! bar!
 
 Indices and tables
 ==================
