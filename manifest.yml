@@ -1,0 +1,6 @@
+---
+applications:
+- name: sphinxdoc
+  memory: 128M
+
+no-route: true
